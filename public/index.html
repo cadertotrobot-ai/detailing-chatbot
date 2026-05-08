@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Detailing Chatbot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="page">
+    <section class="chat-container">
+      <header class="chat-header">
+        <h1>ShinePro Auto Detailing</h1>
+        <p>Ask about services, pricing, or booking.</p>
+      </header>
+
+      <div id="chatMessages" class="chat-messages">
+        <div class="message bot">
+          Hi! I can help with detailing prices, services, and booking requests. What vehicle are we working on?
+        </div>
+      </div>
+
+      <form id="chatForm" class="chat-form">
+        <input
+          id="userInput"
+          type="text"
+          placeholder="Type your message..."
+          autocomplete="off"
+          required
+        />
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
