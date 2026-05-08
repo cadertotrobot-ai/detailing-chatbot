@@ -20,7 +20,7 @@ const chatLimiter = rateLimit({
 });
 
 app.use("/chat", chatLimiter);
-S
+
 const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
