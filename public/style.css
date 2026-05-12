@@ -104,3 +104,50 @@ body {
 .chat-form button:hover {
   background: #1d4ed8;
 }
+.location-section {
+  padding: 70px 20px;
+  background: #f3f4f6;
+}
+
+.location-card {
+  max-width: 700px;
+  margin: 0 auto;
+  background: white;
+  padding: 36px;
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.08);
+}
+
+.location-card h2 {
+  margin-bottom: 12px;
+  font-size: 32px;
+  color: #111827;
+}
+
+.location-card p {
+  color: #4b5563;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.location-button {
+  margin-top: 18px;
+  padding: 14px 24px;
+  border: none;
+  border-radius: 999px;
+  background: #2563eb;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.location-button:hover {
+  background: #1d4ed8;
+}
+
+.location-result {
+  margin-top: 20px;
+  font-weight: 700;
+}

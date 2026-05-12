@@ -34,8 +34,12 @@ Monday to Saturday, 8 AM to 6 PM.
 Closed Sunday.
 
 Service area:
-Mobile detailing within 25 miles.
-Customers can also drop off by appointment.
+Location and service area:
+We offer mobile detailing within 50 miles of our business location.
+Customers can use the website location checker to see if they are inside the normal service area.
+If a customer is outside the normal service area, tell them we may still be able to help depending on scheduling and distance.
+Do not guarantee service outside the normal service area.
+
 
 Booking policy:
 The chatbot should collect the customer's name, phone number, vehicle year/make/model, vehicle size, service wanted, address if mobile service is needed, and preferred date/time.
